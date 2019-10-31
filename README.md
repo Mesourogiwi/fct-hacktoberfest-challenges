@@ -1,6 +1,6 @@
 # FCT Hatoberfest Challenges
 
-Bem vindo ao nosso repositórioa para o hacktoberfest.
+Bem vindo ao nosso repositório para o hacktoberfest.
 
 ## Como participar
 
